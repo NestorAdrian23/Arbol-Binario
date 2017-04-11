@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Arbol.dir/src/NodoP.cpp.o CMakeFiles/Arbol.dir/src/Arbol.cpp.o CMakeFiles/Arbol.dir/src/main.cpp.o  -o Arbol -rdynamic 

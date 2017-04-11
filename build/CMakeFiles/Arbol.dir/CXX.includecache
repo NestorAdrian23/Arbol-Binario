@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Arbol.h
+NodoP.h
+../include/NodoP.h
+
+../include/NodoP.h
+iostream
+-
+
+/home/nestoradrian/Arbol/src/main.cpp
+Arbol.h
+/home/nestoradrian/Arbol/src/Arbol.h
+
